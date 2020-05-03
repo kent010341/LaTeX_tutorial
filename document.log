@@ -1,0 +1,1079 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.17)  3 MAY 2020 16:17
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk\CJKutf8.sty"
+Package: CJKutf8 2015/04/18 4.8.4
+ ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty
+"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk\CJK.sty"
+Package: CJK 2015/04/18 4.8.4
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/mule\MULEenc.s
+ty"
+Package: MULEenc 2015/04/18 4.8.4
+) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk\CJK.enc"
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box27
+) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty
+"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+))
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.s
+ty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+))
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfesca
+pe.sty"
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hycolor.s
+ty"
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\xcolor-pa
+tch.sty"
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hopatch.s
+ty"
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\letltxmac
+ro.sty"
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\intcalc
+.sty"
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count91
+ ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen104
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bitset.
+sty"
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bigintc
+alc.sty"
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6418.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring OFF on input line 6438.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegsh
+i.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+)
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\atveryend
+.sty"
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\uniquec
+ounter.sty"
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.
+sty"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip44
+\multirow@cntb=\count98
+\multirow@dima=\skip45
+\bigstrutjot=\dimen107
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count99
+\lst@gtempboxa=\box28
+\lst@token=\toks17
+\lst@length=\count100
+\lst@currlwidth=\dimen108
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen109
+\lst@width=\dimen110
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen111
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box29
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\enumerate.st
+y"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks18
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count107
+\float@exts=\toks19
+\float@box=\box30
+\@float@everytoks=\toks20
+\@floatcapt=\box31
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen114
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen115
+\subfiglabelskip=\skip49
+\c@subfigure=\count108
+\c@lofdepth=\count109
+\c@subtable=\count110
+\c@lotdepth=\count111
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/subfigure\subfigur
+e.cfg")
+\subfig@top=\skip50
+\subfig@bottom=\skip51
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.st
+y"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen116
+\Gm@wd@mp=\dimen117
+\Gm@odd@mp=\dimen118
+\Gm@even@mp=\dimen119
+\Gm@layoutwidth=\dimen120
+\Gm@layoutheight=\dimen121
+\Gm@layouthoffset=\dimen122
+\Gm@layoutvoffset=\dimen123
+\Gm@dimlist=\toks21
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg")) (document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 19.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\refcount.
+sty"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count115
+)
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
+ (document.out) (document.out)
+\@outlinefile=\write3
+\openout3 = `document.out'.
+
+\c@lstlisting=\count116
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count117
+\scratchdimen=\dimen124
+\scratchbox=\box33
+\nofMPsegments=\count118
+\nofMParguments=\count119
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count120
+\MPscratchDim=\dimen125
+\MPnumerator=\count121
+\makeMPintoPDFobject=\count122
+\everyMPtoPDFconversion=\toks23
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+41.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 459.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(59.74988pt, 478.00812pt, 59.74988pt)
+* v-part:(T,H,B)=(67.60269pt, 676.04005pt, 101.4041pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=478.00812pt
+* \textheight=676.04005pt
+* \oddsidemargin=-12.52011pt
+* \evensidemargin=-12.52011pt
+* \topmargin=-41.6673pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/UTF8\UTF8.bdg"
+File: UTF8.bdg 2015/04/18 4.8.4
+) ("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/UTF8\UTF8.en
+c"
+File: UTF8.enc 2015/04/18 4.8.4
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/UTF8\UTF8.chr"
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Trying to load font information for C70+bsmi on input line 
+23.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/UTF8\c70bsmi.f
+d"
+File: c70bsmi.fd 2015/04/18 4.8.4
+)
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cjk/UTF8\c70bsmi.f
+dx"
+File: c70bsmi.fdx 2015/04/18 4.8.4
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 23.
+ [1
+
+{C:/Users/nKust/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(document.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+)
+\tf@toc=\write4
+\openout4 = `document.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.27 		\newpage
+                [1]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 3
+3.
+
+("C:\Users\nKust\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--36
+
+ []
+
+[2]
+<./images/TeXStudio_mainpage.png, id=281, 730.98094pt x 538.26094pt>
+File: ./images/TeXStudio_mainpage.png Graphic file (type png)
+<use ./images/TeXStudio_mainpage.png>
+Package pdftex.def Info: ./images/TeXStudio_mainpage.png  used on input line 42
+.
+(pdftex.def)             Requested size: 511.68317pt x 376.78009pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--43
+
+ []
+
+
+Overfull \hbox (48.68878pt too wide) in paragraph at lines 41--43
+[] 
+ []
+
+[3 <./images/TeXStudio_mainpage.png>]
+<./images/TeXStudio_download.png, id=288, 687.31781pt x 451.6875pt>
+File: ./images/TeXStudio_download.png Graphic file (type png)
+<use ./images/TeXStudio_download.png>
+Package pdftex.def Info: ./images/TeXStudio_download.png  used on input line 46
+.
+(pdftex.def)             Requested size: 481.11919pt x 316.17908pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Overfull \hbox (18.1248pt too wide) in paragraph at lines 45--47
+[] 
+ []
+
+[4 <./images/TeXStudio_download.png>]
+<./images/MiK_download.png, id=299, 746.79pt x 529.22719pt>
+File: ./images/MiK_download.png Graphic file (type png)
+<use ./images/MiK_download.png>
+Package pdftex.def Info: ./images/MiK_download.png  used on input line 51.
+(pdftex.def)             Requested size: 522.74942pt x 370.4565pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--52
+
+ []
+
+
+Overfull \hbox (59.75504pt too wide) in paragraph at lines 50--52
+[] 
+ []
+
+[5 <./images/MiK_download.png>]
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 59.
+<./images/TS_window.png, id=310, 1445.4pt x 782.925pt>
+File: ./images/TS_window.png Graphic file (type png)
+<use ./images/TS_window.png>
+Package pdftex.def Info: ./images/TS_window.png  used on input line 60.
+(pdftex.def)             Requested size: 476.98347pt x 258.36604pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
+
+ []
+
+
+Overfull \hbox (28.35005pt too wide) in paragraph at lines 59--61
+[] 
+ []
+
+<./images/TS_newbtn.png, id=311, 19.57312pt x 19.57312pt>
+File: ./images/TS_newbtn.png Graphic file (type png)
+<use ./images/TS_newbtn.png>
+Package pdftex.def Info: ./images/TS_newbtn.png  used on input line 61.
+(pdftex.def)             Requested size: 19.57306pt x 19.57306pt.
+<./images/TS_F7.png, id=312, 1445.4pt x 782.925pt>
+File: ./images/TS_F7.png Graphic file (type png)
+<use ./images/TS_F7.png>
+Package pdftex.def Info: ./images/TS_F7.png  used on input line 65.
+(pdftex.def)             Requested size: 476.98347pt x 258.36604pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--66
+
+ []
+
+
+Overfull \hbox (28.35005pt too wide) in paragraph at lines 64--66
+[] 
+ []
+
+[6 <./images/TS_window.png> <./images/TS_newbtn.png> <./images/TS_F7.png>]
+<./images/MiKTeX_console.png, id=318, 603.75563pt x 475.7775pt>
+File: ./images/MiKTeX_console.png Graphic file (type png)
+<use ./images/MiKTeX_console.png>
+Package pdftex.def Info: ./images/MiKTeX_console.png  used on input line 72.
+(pdftex.def)             Requested size: 422.62605pt x 333.04196pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--74
+
+ []
+
+[7 <./images/MiKTeX_console.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+
+ []
+
+
+Overfull \hbox (28.51169pt too wide) in paragraph at lines 85--86
+ \C70/bsmi/m/n/12/7b ƒ \C70/bsmi/m/n/12/4f ã \C70/bsmi/m/n/12/ff  \C70/bsmi/m/
+n/12/4e   ˝ \C70/bsmi/m/n/12/65 á \C70/bsmi/m/n/12/4e ˆ \C70/bsmi/m/n/12/53 Ô \
+C70/bsmi/m/n/12/80 ˝ \C70/bsmi/m/n/12/67  \C70/bsmi/m/n/12/4e Â \C70/bsmi/m/n/
+12/90  \C70/bsmi/bx/n/12/6a # \C70/bsmi/m/n/12/4f \ \C70/bsmi/m/n/12/70 ∫ \C70
+/bsmi/bx/n/12/95 ã \C70/bsmi/bx/n/12/98 - \C70/bsmi/m/n/12/ff \OMS/cmsy/m/n/12
+ n\OT1/cmr/m/n/12 documentclass[11pt,twoside,a4paper]\OMS/cmsy/m/n/12 f\OT1/cmr
+/m/n/12 article\OMS/cmsy/m/n/12 g\C70/bsmi/m/n/12/30 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 105--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--124
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--124
+
+ []
+
+[9]
+<./images/easy_sample.png, id=344, 887.56593pt x 577.40718pt>
+File: ./images/easy_sample.png Graphic file (type png)
+<use ./images/easy_sample.png>
+Package pdftex.def Info: ./images/easy_sample.png  used on input line 127.
+(pdftex.def)             Requested size: 443.78188pt x 288.70288pt.
+<./images/easy_sample_2.png, id=345, 887.56593pt x 541.27219pt>
+File: ./images/easy_sample_2.png Graphic file (type png)
+<use ./images/easy_sample_2.png>
+Package pdftex.def Info: ./images/easy_sample_2.png  used on input line 128.
+(pdftex.def)             Requested size: 443.78188pt x 270.63542pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+
+ []
+
+[10 <./images/easy_sample.png> <./images/easy_sample_2.png>]
+<./images/MiKTeX_console_cjk.png, id=350, 603.75563pt x 475.7775pt>
+File: ./images/MiKTeX_console_cjk.png Graphic file (type png)
+<use ./images/MiKTeX_console_cjk.png>
+Package pdftex.def Info: ./images/MiKTeX_console_cjk.png  used on input line 13
+4.
+(pdftex.def)             Requested size: 422.62605pt x 333.04196pt.
+LaTeX Font Info:    Font shape `OMS/cmr/bx/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/b/n' tried instead on input line 135.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
+
+ []
+
+[11 <./images/MiKTeX_console_cjk.png>] [12]
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 205--214
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--214
+
+ []
+
+
+Overfull \hbox (23.75995pt too wide) in paragraph at lines 220--230
+\C70/bsmi/m/n/12/57 (\OMS/cmsy/m/n/12 n\OT1/cmr/m/n/12 begin\OMS/cmsy/m/n/12 f\
+OT1/cmr/m/n/12 enumerate\OMS/cmsy/m/n/12 g\C70/bsmi/bx/n/12/5f å \C70/bsmi/m/n/
+12/97 b \C70/bsmi/bx/n/12/53 Ô \C70/bsmi/m/n/12/4e Â - \C70/bsmi/m/n/12/62 Ï \C
+70/bsmi/bx/n/12/86 _ \C70/bsmi/m/n/12/8a - \C70/bsmi/m/n/12/5b ö \C70/bsmi/m/n/
+12/7d Ë \C70/bsmi/bx/n/12/86 _ \C70/bsmi/m/n/12/68 < \C70/bsmi/bx/n/12/5f  \C7
+0/bsmi/m/n/12/ff  \C70/bsmi/m/n/12/68 < \C70/bsmi/bx/n/12/5f  \C70/bsmi/m/n/1
+2/4e - \C70/bsmi/bx/n/12/53  \C70/bsmi/m/n/12/54 + \C70/bsmi/m/n/12/4e „ \C70/
+bsmi/m/n/12/88 h\OT1/cmr/m/n/12 1\C70/bsmi/m/n/12/76 Ñ \C70/bsmi/m/n/12/5b W \C
+70/bsmi/m/n/12/51 C\OT1/cmr/m/n/12 (1\C70/bsmi/bx/n/12/30 \OT1/cmr/m/n/12 I\C7
+0/bsmi/bx/n/12/30 \OT1/cmr/m/n/12 A\C70/bsmi/bx/n/12/30 \OT1/cmr/m/n/12 a)\C7
+0/bsmi/m/n/12/5c 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--230
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 242--244
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 264--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--285
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 288--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--310
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--329
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+
+ []
+
+
+Overfull \hbox (1.36171pt too wide) in paragraph at lines 350--351
+[]\C70/bsmi/m/n/12/57  \C70/bsmi/bx/n/12/72 G \C70/bsmi/bx/n/12/8d Ô \C70/bsmi
+/bx/n/12/5f ë \C70/bsmi/m/n/12/ff  \C70/bsmi/bx/n/12/53 Ô \C70/bsmi/m/n/12/8f 
+8 \C70/bsmi/m/n/12/51 e \C70/bsmi/m/n/12/5b å \C70/bsmi/m/n/12/65 t \C70/bsmi/b
+x/n/12/8d Ô \C70/bsmi/bx/n/12/5f ë \C70/bsmi/bx/n/12/30  \C70/bsmi/m/n/12/76 ¯
+ \C70/bsmi/bx/n/12/5c  \C70/bsmi/bx/n/12/8d Ô \C70/bsmi/bx/n/12/5f ë \C70/bsmi
+/m/n/12/ff  \C70/bsmi/bx/n/12/82 Â \C70/bsmi/bx/n/12/53 Í \C70/bsmi/m/n/12/8f 
+8 \C70/bsmi/m/n/12/51 e \C70/bsmi/bx/n/12/6a î \C70/bsmi/bx/n/12/68 H \C70/bsmi
+/bx/n/12/54  \C70/bsmi/bx/n/12/7a 1 \C70/bsmi/bx/n/12/52 G \C70/bsmi/bx/n/12/6
+7  \C70/bsmi/bx/n/12/5f û \C70/bsmi/m/n/12/51 H \C70/bsmi/bx/n/12/52 M\OT1/cmr
+/m/n/12 graphicspath\C70/bsmi/m/n/12/62 @
+ []
+
+<./images/sin.png, id=406, 844.65562pt x 577.40718pt>
+File: ./images/sin.png Graphic file (type png)
+<use ./images/sin.png>
+Package pdftex.def Info: ./images/sin.png  used on input line 365.
+(pdftex.def)             Requested size: 168.92813pt x 115.47939pt.
+[19pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.370 			\newpage
+                  <./images/sin.png>]
+Overfull \hbox (16.59401pt too wide) in paragraph at lines 372--374
+| \C70/bsmi/m/n/12/57 ( \C70/bsmi/m/n/12/97   \C70/bsmi/m/n/12/89 Å \C70/bsmi/b
+x/n/12/75 "  \C70/bsmi/bx/n/12/53 √ \C70/bsmi/m/n/12/80  \C70/bsmi/bx/n/12/8c
+ « \C70/bsmi/m/n/12/65 ô \C70/bsmi/m/n/12/76 Ñ \C70/bsmi/m/n/12/57 0 \C70/bsmi/
+m/n/12/65 π \C70/bsmi/bx/n/12/4f  \C70/bsmi/bx/n/12/75 (\OMS/cmsy/m/n/12 n\OT1
+/cmr/m/n/12 begin\OMS/cmsy/m/n/12 f\OT1/cmr/m/n/12 thebibliography\OMS/cmsy/m/n
+/12 gf\C70/bsmi/bx/n/12/95 w \C70/bsmi/m/n/12/5e ¶\OMS/cmsy/m/n/12 g\C70/bsmi/b
+x/n/12/82 \OMS/cmsy/m/n/12 n\OT1/cmr/m/n/12 end\OMS/cmsy/m/n/12 f\OT1/cmr/m/n/
+12 thebibliography\OMS/cmsy/m/n/12 g\C70/bsmi/bx/n/12/30 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 395--402
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
+
+ []
+
+
+Overfull \hbox (27.55212pt too wide) in paragraph at lines 431--432
+\C70/bsmi/bx/n/12/98  \C70/bsmi/m/n/12/8a - \C70/bsmi/bx/n/12/54  \C70/bsmi/b
+x/n/12/7a 1 \C70/bsmi/m/n/12/59 Ç \C70/bsmi/bx/n/12/81 Í \C70/bsmi/bx/n/12/52 ’
+ \C70/bsmi/bx/n/12/75 "  \C70/bsmi/m/n/12/76 Ñ \C70/bsmi/m/n/12/64 X \C70/bsmi
+/m/n/12/89 Å\OT1/cmr/m/n/12 (Abstract)\C70/bsmi/bx/n/12/30  \C70/bsmi/m/n/12/7
+6 Ó \C70/bsmi/m/n/12/93 \OT1/cmr/m/n/12 (Contents)\C70/bsmi/bx/n/12/30  \C70/
+bsmi/bx/n/12/53 √ \C70/bsmi/m/n/12/80  \C70/bsmi/bx/n/12/8c « \C70/bsmi/m/n/12
+/65 ô\OT1/cmr/m/n/12 (References)\C70/bsmi/bx/n/12/30  \C70/bsmi/m/n/12/57  \
+C70/bsmi/bx/n/12/72 G\OT1/cmr/m/n/12 (Figure.)\C70/bsmi/m/n/12/ff 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 444.
+[21]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 444.
+ (document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 444.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 444.
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: FC36F92A433153C320C6A3A73D8BA8B6;2367.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 444.
+ ) 
+Here is how much of TeX's memory you used:
+ 10389 strings out of 492450
+ 153783 string characters out of 3120004
+ 229030 words of memory out of 3000000
+ 14193 multiletter control sequences out of 15000+200000
+ 62640 words of font info for 220 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,11n,36p,743b,1228s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bs
+miu30.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/
+bsmiu/bsmiu4e.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/arphic/bsmiu/bsmiu4f.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/arphic/bsmiu/bsmiu50.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/arphic/bsmiu/bsmiu51.pfb><C:/Users/nKust/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu52.pfb><C:/Users/nKust/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu53.pfb><C:/Users/nKust/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu54.pfb><C:/Users/nKu
+st/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu55.pfb><C:/U
+sers/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu56.p
+fb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/b
+smiu57.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic
+/bsmiu/bsmiu58.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/arphic/bsmiu/bsmiu59.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/arphic/bsmiu/bsmiu5b.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/arphic/bsmiu/bsmiu5c.pfb><C:/Users/nKust/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu5d.pfb><C:/Users/nKust/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu5e.pfb><C:/Users/nKust/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu5f.pfb><C:/Users/nK
+ust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu61.pfb><C:/
+Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu62.
+pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/
+bsmiu63.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphi
+c/bsmiu/bsmiu64.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/arphic/bsmiu/bsmiu65.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/arphic/bsmiu/bsmiu66.pfb><C:/Users/nKust/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/arphic/bsmiu/bsmiu67.pfb><C:/Users/nKust/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu68.pfb><C:/Users/nKust/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu69.pfb><C:/Users/nKust/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu6a.pfb><C:/Users/n
+Kust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu6b.pfb><C:
+/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu6c
+.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu
+/bsmiu6e.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arph
+ic/bsmiu/bsmiu70.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/arphic/bsmiu/bsmiu71.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/arphic/bsmiu/bsmiu72.pfb><C:/Users/nKust/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/arphic/bsmiu/bsmiu73.pfb><C:/Users/nKust/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu74.pfb><C:/Users/nKust/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu75.pfb><C:/Users/nKust/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu76.pfb><C:/Users/
+nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu77.pfb><C
+:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu7
+8.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmi
+u/bsmiu79.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arp
+hic/bsmiu/bsmiu7a.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/arphic/bsmiu/bsmiu7b.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/arphic/bsmiu/bsmiu7c.pfb><C:/Users/nKust/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu7d.pfb><C:/Users/nKust/AppData/Local/Pro
+grams/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu7e.pfb><C:/Users/nKust/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu7f.pfb><C:/Users/nKust/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu80.pfb><C:/Users
+/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu81.pfb><
+C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu
+82.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsm
+iu/bsmiu84.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ar
+phic/bsmiu/bsmiu86.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/arphic/bsmiu/bsmiu88.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/arphic/bsmiu/bsmiu89.pfb><C:/Users/nKust/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8a.pfb><C:/Users/nKust/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8b.pfb><C:/Users/nKust/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8c.pfb><C:/Users/nKust/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8d.pfb><C:/User
+s/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu8f.pfb>
+<C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmi
+u90.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bs
+miu/bsmiu91.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/a
+rphic/bsmiu/bsmiu93.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/arphic/bsmiu/bsmiu95.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/arphic/bsmiu/bsmiu96.pfb><C:/Users/nKust/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu97.pfb><C:/Users/nKust/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu98.pfb><C:/Users/nKust/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu99.pfb><C:/Users/nKust
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu9a.pfb><C:/Use
+rs/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsmiu9e.pfb
+><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/bsmiu/bsm
+iu9f.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/arphic/b
+smiu/bsmiuff.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbsy10.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/nKust/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/nKust/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
+s/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr12.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmr17.pfb><C:/Users/nKust/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/nKust/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/nKust/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on document.pdf (22 pages, 1115634 bytes).
+PDF statistics:
+ 695 PDF objects out of 1000 (max. 8388607)
+ 74 named destinations out of 1000 (max. 500000)
+ 556 words of extra memory for PDF output out of 10000 (max. 10000000)
+
